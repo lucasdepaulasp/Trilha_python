@@ -3,6 +3,7 @@
 Este repositório contém uma série de arquivos Python que cobrem tópicos básicos da linguagem, incluindo estruturas condicionais, estruturas de repetição, funções e # módulos, operadores e tipos de dados.
 
 # Arquivos
+
 Calculo básico.py
 Este arquivo contém uma implementação simples de cálculo básico em Python.
 
