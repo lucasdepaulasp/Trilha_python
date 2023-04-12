@@ -1,6 +1,6 @@
 # Trilha_python
 
-# Este repositório contém uma série de arquivos Python que cobrem tópicos básicos da linguagem, incluindo estruturas condicionais, estruturas de repetição, funções e # # módulos, operadores e tipos de dados.
+# Este repositório contém uma série de arquivos Python que cobrem tópicos básicos da linguagem, incluindo estruturas condicionais, estruturas de repetição, funções e # módulos, operadores e tipos de dados.
 
 # Arquivos
 # Calculo básico.py
